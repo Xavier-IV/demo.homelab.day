@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+## Since this is boilerplate, I'll exclude this. Feel free to uncomment.
+.kamal
+config/deploy.yml
